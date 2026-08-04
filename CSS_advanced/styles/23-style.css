@@ -206,8 +206,8 @@ ul.row {
     display: block;
 }
 
-.social-link, svg {
-    fill: var(--text-color);
+.social-link svg path {
+  fill: var(--text-color);
 }
 
 [data-section-theme="dark"] {
