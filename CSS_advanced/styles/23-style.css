@@ -199,16 +199,15 @@ ul.row {
 }
 
 .footer-address {
-  color: var(--text-color);
+    color: var(--text-color);
 }
 
 .social-link {
-  display: block;
+    display: block;
 }
 
 .social-link svg {
-  fill: var(--text-color);
-  transition: fill 0.3s ease;
+    fill: var(--text-color);
 }
 
 [data-section-theme="dark"] {
