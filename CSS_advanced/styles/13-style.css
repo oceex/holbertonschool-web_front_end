@@ -37,8 +37,8 @@ body {
 }
 
 a[href] {
-    text-decoration: none;
     color: var(--text-color);
+    text-decoration: none;
 }
 
 a[href]:visited {
