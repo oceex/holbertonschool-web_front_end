@@ -203,7 +203,7 @@ ul.row {
 }
 
 .social-link {
-    color: var(--text-color);
+    display: block;
 }
 
 .social-link > svg {
