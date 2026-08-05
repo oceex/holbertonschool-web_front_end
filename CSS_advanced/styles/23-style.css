@@ -206,10 +206,9 @@ ul.row {
     color: var(--text-color);
 }
 
-.social-link svg {
-    fill: currentColor;
+.social-link > svg {
+    fill: var(--text-color);
 }
-
 
 [data-section-theme="dark"] {
     --text-color: var(--color-white);
