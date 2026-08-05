@@ -206,7 +206,8 @@ ul.row {
     fill: var(--text-color);
 }
 
-.social-link svg {
+.social-link svg,
+.social-link img {
     fill: var(--text-color);
 }
 
