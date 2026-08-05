@@ -207,10 +207,6 @@ ul.row {
 }
 
 
-.social-link svg,
-.social-link img {
-    fill: var(--text-color);
-}
 
 [data-section-theme="dark"] {
     --text-color: var(--color-white);
