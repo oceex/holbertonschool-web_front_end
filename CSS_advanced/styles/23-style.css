@@ -199,7 +199,7 @@ ul.row {
 }
 
 .footer-address {
-    color: var(--text-color);
+    color: inherit;
 }
 
 .social-link {
