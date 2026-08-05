@@ -35,7 +35,6 @@
     --nav-item-letter-spacing: 0.04rem;
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 3rem 0;
-    --nav-item-link-hover: var(--color-primary);
     --button-display: inline-block;
     --button-padding: 1.5rem 3rem;
     --button-border: 0.2rem solid var(--color-primary);
@@ -237,7 +236,7 @@ ul.row {
     left: 0;
     background-color: var(--color-white);
     width: 0;
-    height: 2rem;
+    height: 0.2rem;
 }
 
 .nav .nav-item:hover .nav-link::before {
